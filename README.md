@@ -34,7 +34,7 @@
 
 
 ## Hi, ich bin sebastian 👋🏻
-Willkommen auf meinem GitLab Profiel. Ich bin Student und tobe mich hier ein bissel aus 😁
+Willkommen auf meinem GitLab Profil. Ich bin Student und tobe mich hier ein bissel aus 😁
 
  
 
