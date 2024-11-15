@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/>
-</div>
-
-<h2 align="center">Hu, I'm sebastian 👋🏻</h2>
-<div id="badges-container">
+  <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/><div id="badges-container">
       <a>
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
@@ -17,6 +13,10 @@
         <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/>
       </a>
   </div>
+</div>
+
+<h2 align="center">Hu, I'm sebastian 👋🏻</h2>
+
 
 welcome to my github profil. I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓
 I'm currently working as a Helper for the HSMWMobil App as a backend API developer.
