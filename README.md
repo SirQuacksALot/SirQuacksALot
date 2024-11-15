@@ -1,7 +1,7 @@
 <div id="header" align="center" align-content="left">
   <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/>
   <div id="badges-container">
-    <div id="badges">
+    <div id="badges" margin="0">
       <a>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
       </a>
