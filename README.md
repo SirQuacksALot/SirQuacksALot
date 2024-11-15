@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100" margin="0" padding ="0"/>
+  <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/>
 </div>
 
 <h2 align="center">Hu, I'm sebastian 👋🏻</h2>
