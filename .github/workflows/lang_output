@@ -4,7 +4,7 @@ with:
   template: repository
   filename: metrics.repository.svg
   token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-  user: lowlighter
+  user: SirQuacksALot
   repo: metrics
   plugin_lines: yes
   plugin_followup: yes
