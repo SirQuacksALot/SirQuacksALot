@@ -9,7 +9,7 @@
   </p>
 </div>
 
-<h2 align="center">ʜɪ, ɪ᾽ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h2>
+<h2 align="center">ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h2>
 
 Welcome to my github profil. 
 
