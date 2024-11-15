@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="">
-        <img src="https://a11ybadges.com/badge?logo=hackthebox" alt="Hack the Box Badge"/>
+        <img src="https://a11ybadges.com/badge?style=for-the-badge&logo=hackthebox" alt="Hack the Box Badge"/>
       </a>
   </div>
 </div>
