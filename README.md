@@ -28,4 +28,4 @@ My fields of interessts are Cybersecurity, Maleware development and Penetrationt
 
 ##
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
