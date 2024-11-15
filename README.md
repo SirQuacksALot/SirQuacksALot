@@ -18,7 +18,7 @@ My fields of interessts are Cybersecurity, Maleware development and Penetrationt
 
 ##
 
-###🪴 Skills
+### 🪴 Skills
 
 ![CPP Badge](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
