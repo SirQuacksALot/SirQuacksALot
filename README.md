@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/>
-  <div id="badges" position="relative">
+  <div id="badges">
     <a>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" position="absolute" align="left">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
     </a>
   </div>
   <div id="badges">
