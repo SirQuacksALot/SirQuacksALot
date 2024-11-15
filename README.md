@@ -12,7 +12,7 @@
 <h2 align="center">Hu, I'm sebastian 👋🏻</h2>
 
 Welcome to my github profil. I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓
-I'm currently working as a Helper for the HSMWMobil App as a backend API developer.
+I'm currently working for the HSMWMobil App as a backend API developer.
 
 My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
 
