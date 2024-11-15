@@ -24,4 +24,4 @@ Willkommen auf meinem GitLab Profil. Ich bin Student und tobe mich hier ein biss
 
  
 
-
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
