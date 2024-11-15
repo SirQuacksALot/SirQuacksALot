@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div>
+  <div align="left">
     <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/>
     <div id="badges">
       <a>
