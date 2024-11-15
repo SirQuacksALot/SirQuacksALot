@@ -17,7 +17,7 @@
 </div>
 
 ## Hu, I'm sebastian 👋🏻
-welcome to my github profil. I'm a student at University of Applied Sciences Mittweida and studying applied computer science 😁
+welcome to my github profil. I'm a student at University of Applied Sciences Mittweida and studying applied computer science 👨‍🎓
 I'm currently working as a Helper for the HSMWMobil App as a backend API developer.
 
 My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting.
