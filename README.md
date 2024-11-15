@@ -11,7 +11,9 @@
 
 <h2 align="center">ʜɪ, ɪ᾽ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h2>
 
-Welcome to my github profil. I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓
+Welcome to my github profil. 
+
+I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓
 I'm currently working for the HSMWMobil App as a backend API developer.
 
 My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
