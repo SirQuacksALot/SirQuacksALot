@@ -9,7 +9,7 @@
   </p>
 </div>
 
-<h2 align="center">Hu, I'm sebastian 👋🏻</h2>
+<h2 align="center">ʜɪ, ɪ᾽ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h2>
 
 Welcome to my github profil. I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓
 I'm currently working for the HSMWMobil App as a backend API developer.
