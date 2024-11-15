@@ -1,4 +1,4 @@
-<div id="header" align="center" style="margin: 0; padding: 0;">
+<div id="header" align="center" style="margin: 400px; padding: 0;">
   <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/>
   <div id="badges-container">
     <div id="badges" margin="0">
