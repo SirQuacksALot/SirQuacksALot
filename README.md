@@ -32,5 +32,6 @@ My fields of interessts are Cybersecurity, Maleware development and Penetrationt
 
 <div id="footer" align="center">
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.languages.indepth.svg"><br><br>
-  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.topics.icons.svg">
+  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.topics.icons.svg"><br><br>
+  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.achievements.compact.svg">
 </div>
