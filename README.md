@@ -1,20 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/v2es7QGjFfoAAAAi/raul-senes-gamer.gif" width="100"/>
-  <div><p></p></div>
-  <div id="badges-container">
-      <a href="">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-      </a>
-      <a href="https://www.linkedin.com/in/sebastian-gla%C3%9F-58a917225/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="">
-        <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack the Box Badge"/>
-      </a>
-      <a href="">
-        <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/>
-      </a>
-  </div>
+  <p>
+      <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+      <a href="https://www.linkedin.com/in/sebastian-gla%C3%9F-58a917225/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+      <a href=""><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack the Box Badge"/></a>
+      <a href=""><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/></a>
+  </p>
 </div>
 
 <h2 align="center">Hu, I'm sebastian 👋🏻</h2>
