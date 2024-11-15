@@ -7,7 +7,9 @@
       <a href="https://www.linkedin.com/in/sebastian-gla%C3%9F-58a917225/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      ![Hack The Box](https://a11ybadges.com/badge?logo=hackthebox)
+      <a href="">
+        <img src="https://a11ybadges.com/badge?logo=hackthebox" alt="Hack the Box Badge"/>
+      </a>
   </div>
 </div>
 
