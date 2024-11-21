@@ -8,7 +8,7 @@
       <a href=""><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/></a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=flat-square&color=blue" alt=""/>
   </p>
 </div>
 
