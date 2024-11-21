@@ -7,9 +7,7 @@
       <a href=""><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack the Box Badge"/></a>
       <a href=""><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/></a>
   </p>
-  <p>
     <img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=flat-square&color=blue" alt=""/>
-  </p>
 </div>
 
 <h2 align="center">ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h2>
