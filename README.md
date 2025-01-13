@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-<h2 align="center">ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h2>
+<h1 align="center">ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h1>
 
 Welcome to my github profil. 
 
