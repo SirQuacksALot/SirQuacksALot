@@ -12,8 +12,6 @@
 
 <h1>ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h1>
 
-Welcome to my github profil. 
-
 I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
 
 ##
