@@ -10,7 +10,7 @@ I'm a student at University of Applied Sciences Mittweida and studying applied i
 ##
 
 ### Socials 🔗
-<a href="https://tryhackme.com/r/p/0bs3rv"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/></a>
+<a href="https://tryhackme.com/r/p/0bs3rv"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=182335" alt="Try Hack Me Badge"/></a>
 
 ### TechStack 💻
 
