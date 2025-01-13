@@ -5,7 +5,7 @@
 I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
 
 
-<img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=for-the-badge&color=blue&labelColor=005d93" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=for-the-badge&color=blue&labelColor=#005d93" alt=""/>
 
 ##
 
