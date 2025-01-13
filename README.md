@@ -28,3 +28,5 @@ I'm a student at University of Applied Sciences Mittweida and studying applied i
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.topics.icons.svg"><br><br>
   <!-- <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.achievements.compact.svg"> -->
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirQuacksALot&show_icons=true)
