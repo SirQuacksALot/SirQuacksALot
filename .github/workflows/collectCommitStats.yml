@@ -18,6 +18,11 @@ jobs:
       with:
         python-version: "3.x"
 
+    - name: Install Dependencies
+      run: |
+        python3 -m pip install --upgrade pip
+        python3 -m pip install requests
+
     - name: Run Commit Script
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
