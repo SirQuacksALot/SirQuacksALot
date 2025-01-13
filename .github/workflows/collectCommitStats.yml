@@ -25,7 +25,7 @@ jobs:
 
     - name: Run Commit Script
       env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
+        GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
       run: |
         python3 scripts/commitCollectionScript.py
 
