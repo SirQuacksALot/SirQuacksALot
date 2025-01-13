@@ -5,7 +5,7 @@
 I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
 
 
-<img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=for-the-badge&color=blue" alt=""/> <img src="https://img.shields.io/github/stars/SirQuacksALot?style=for-the-badge&labelColor=f2cb00&color=gold"> <img src="https://img.shields.io/github/followers/SirQuacksALot?style=for-the-badge&labelColor=8cbc00&color=green"> <a href="https://app.hackthebox.com/profile/1613228"><img src="https://img.shields.io/badge/_-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=96e200" alt="Hack the Box Badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=for-the-badge&color=blue" alt=""/> <img src="https://img.shields.io/github/stars/SirQuacksALot?style=for-the-badge&labelColor=f2cb00&color=gold"> <img src="https://img.shields.io/github/followers/SirQuacksALot?style=for-the-badge&labelColor=8cbc00&color=red"> <a href="https://app.hackthebox.com/profile/1613228"><img src="https://img.shields.io/badge/_-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=96e200" alt="Hack the Box Badge"/></a>
 
 ##
 
