@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-<p style="font-size: 100px">ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</p>
+<h3 style="font-size: 100px">ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻</h3>
 
 I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
 
