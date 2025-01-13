@@ -1,8 +1,5 @@
 <h1>
 ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻
-<a href="https://www.linkedin.com/in/sebastian-gla%C3%9F-58a917225/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://app.hackthebox.com/profile/1613228"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack the Box Badge"/></a>
-<a href="https://tryhackme.com/r/p/0bs3rv"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/></a>
 </h1>
 
 I'm a student at University of Applied Sciences Mittweida and studying applied informatics 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
@@ -11,6 +8,11 @@ I'm a student at University of Applied Sciences Mittweida and studying applied i
 <img src="https://komarev.com/ghpvc/?username=SirQuacksALot&style=for-the-badge&color=blue" alt=""/>
 
 ##
+
+### Socials 🔗
+<a href="https://www.linkedin.com/in/sebastian-gla%C3%9F-58a917225/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://app.hackthebox.com/profile/1613228"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack the Box Badge"/></a>
+<a href="https://tryhackme.com/r/p/0bs3rv"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Try Hack Me Badge"/></a>
 
 ### TechStack 💻
 
