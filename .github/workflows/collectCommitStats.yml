@@ -13,47 +13,16 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Collect Repositories
+    - name: Install Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.x"
+
+    - name: Run Commit Script
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
       run: |
-        echo "Fetching repositories for the user..."
-        curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
-          "https://api.github.com/users/SirQuacksALot/repos?per_page=100" \
-          > repos.json
-
-    - name: Calculate Total Commits
-      env:
-        GITHUB_TOKEN: ${{ secrets.PAT }}
-      run: |
-        echo "Calculating total commits..."
-        python3 <<EOF
-        import os
-        import json
-        import requests
-
-        # Load repositories from JSON
-        with open("repos.json") as f:
-            repos = json.load(f)
-        
-        # Prepare for collecting commit stats
-        headers = {"Authorization": f"Bearer {os.getenv('GITHUB_TOKEN')}"}
-        total_commits = 0
-        
-        # Loop through each repository and calculate commits
-        for repo in repos:
-            repo_name = repo["full_name"]
-            commits_url = f"https://api.github.com/repos/{repo_name}/commits?author=SirQuacksALot"
-            print(f"Fetching commits for {repo_name}...")
-            response = requests.get(commits_url, headers=headers)
-            if response.status_code == 200:
-                total_commits += len(response.json())
-        
-        # Save the total commits to stats.json
-        result = {"total_commits": total_commits}
-        with open("stats.json", "w") as f:
-            json.dump(result, f, indent=2)
-        EOF
+        python3 scripts/commitCollectionScript.py
 
     - name: Push Results to Repository
       run: |
