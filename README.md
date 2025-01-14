@@ -41,7 +41,7 @@ I'm a student at a University of Applied Sciences and studying applied computer 
 <!-- ![Metrics](/github-metrics.svg) -->
 
 <div id="footer" align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=prussian&animation=default&layout=default&font=default&quoteType=random&bgColor=black">
+  <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=prussian&animation=default&layout=default&font=default&quoteType=random&bgColor=black"> -->
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.languages.indepth.svg"><br><br>
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.topics.icons.svg"><br><br>
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.achievements.compact.svg">
