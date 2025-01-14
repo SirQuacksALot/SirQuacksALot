@@ -38,6 +38,9 @@ jobs:
           echo "CHANGES=false" >> $GITHUB_ENV
         fi
 
+    - name: No changes found
+      if: env.CHANGES == 'false'
+
     - name: Push Results to Repository on chnages
       if: env.CHANGES == 'true'
       env:
