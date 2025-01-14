@@ -23,13 +23,23 @@ jobs:
         python3 -m pip install --upgrade pip
         python3 -m pip install requests
 
-    - name: Run Commit Script
+    - name: Run Commit Collection Script
       env:
         GITHUB_TOKEN: ${{ secrets.PAT }}
       run: |
         python3 scripts/commitCollectionScript.py
 
-    - name: Push Results to Repository
+    - name: Check for Changes
+      id: check_changes
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "CHANGES=true" >> $GITHUB_ENV
+        else
+          echo "CHANGES=false" >> $GITHUB_ENV
+        fi
+
+    - name: Push Results to Repository on chnages
+      if: env.CHANGES == 'true'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
