@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: img/metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
