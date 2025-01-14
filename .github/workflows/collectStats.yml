@@ -21,7 +21,7 @@ jobs:
     - name: Install Dependencies
       run: |
         python3 -m pip install --upgrade pip
-        python3 -m pip install -r requirements.txt
+        python3 -m pip install -r scripts/statsRequirements.txt
 
     - name: Run Commit Collection Script
       env:
