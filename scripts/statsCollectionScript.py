@@ -10,7 +10,8 @@ def get_visitor_stats(path):
     :return: Ein Dictionary mit 'total_visitors' und 'unique_visitors'.
     """
     url = f"https://visitorbadge.io/status?path={path}"
-    response = requests.get(url)
+    headers = { "User-Agent": "Mozilla/5.0 (compatible; GitHubActions/1.0)" }
+    response = requests.get(url, headers=headers)
     if response.status_code != 200:
         raise Exception(f"Failed to fetch visitor stats: {response.status_code}")
     
