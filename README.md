@@ -42,9 +42,9 @@ I'm a student at a University of Applied Sciences and studying applied computer 
 
 <div id="footer" align="center">
   <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=prussian&animation=default&layout=default&font=default&quoteType=random&bgColor=black"> -->
-  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.languages.indepth.svg"><br><br>
-  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.topics.icons.svg"><br><br>
-  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.achievements.compact.svg">
+  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/img/metrics.plugin.languages.indepth.svg"><br><br>
+  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/img/metrics.plugin.topics.icons.svg"><br><br>
+  <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/img/metrics.plugin.achievements.compact.svg">
 </div>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSirQuacksALot&countColor=%23263759" width="0px" hight="0px">
