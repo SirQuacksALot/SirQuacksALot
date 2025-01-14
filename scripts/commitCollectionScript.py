@@ -3,9 +3,13 @@ import json
 import requests
 
 def collect_commit_stats():
-    print(f"{os.getenv('GITHUB_TOKEN')}")
+    # Token aus Umgebungsvariable auslesen
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise ValueError("GITHUB_TOKEN environment variable is not set.")
+        
     # Load repositories from GitHub API
-    headers = {"Authorization": f"Bearer {os.getenv('GITHUB_TOKEN')}"}
+    headers = {"Authorization": f"Bearer {token}"}
     response = requests.get("https://api.github.com/users/SirQuacksALot/repos?per_page=100", headers=headers)
     if response.status_code != 200:
         print(f"Failed to fetch repositories: {response.status_code}, {response.text}")
