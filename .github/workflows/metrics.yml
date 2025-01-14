@@ -17,4 +17,4 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PAT }}
-          filename: img/metrics.plugin.achievements.compact.svg
+          filename: img/metrics.github-metrics.compact.svg
