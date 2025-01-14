@@ -43,5 +43,5 @@ I'm a student at a University of Applied Sciences and studying applied computer 
 <div id="footer" align="center">
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.languages.indepth.svg"><br><br>
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.topics.icons.svg"><br><br>
-  <!-- <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.achievements.compact.svg"> -->
+  <<img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.achievements.compact.svg">
 </div>
