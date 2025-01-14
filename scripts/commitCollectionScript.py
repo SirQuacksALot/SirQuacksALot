@@ -1,13 +1,39 @@
 import os
 import json
 import requests
+from bs4 import BeautifulSoup
 
-def collect_commit_stats():
+def get_visitor_stats(path):
+    """
+    Ruft die Besucherstatistiken von visitorbadge.io ab.
+    :param path: Der URL-Pfad, der getrackt wird (z. B. ein GitHub-Profil oder Repository).
+    :return: Ein Dictionary mit 'total_visitors' und 'unique_visitors'.
+    """
+    url = f"https://visitorbadge.io/status?path={path}"
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise Exception(f"Failed to fetch visitor stats: {response.status_code}")
+    
+    # HTML parsen
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    # Extrahiert die Statistiken aus den entsprechenden HTML-Elementen
+    stats = soup.find_all("h2")
+    if len(stats) >= 2:
+        total_visitors = stats[0].text.strip()
+        unique_visitors = stats[1].text.strip()
+        return {"total_visitors": int(total_visitors), "unique_visitors": int(unique_visitors)}
+    else:
+        raise Exception("Could not extract visitor statistics.")
+
+def collect_commit_stats(username): 
+    """
+    Ruft die Commit-Statistiken von GitHub ab und kombiniert sie mit den Besucherstatistiken.
+    """
     # Token aus Umgebungsvariable auslesen
     token = os.getenv("GITHUB_TOKEN")
     if not token:
         raise ValueError("GITHUB_TOKEN environment variable is not set.")
-    username = "SirQuacksALot"
     headers = {"Authorization": f"Bearer {token}"}
         
     # Load repositories from GitHub API
@@ -42,11 +68,17 @@ def collect_commit_stats():
                 break
             total_commits += len(commits)
             page += 1
+    return total_commits
+    
+if __name__ == "__main__":
+    username = "SirQuacksALot"
+    
+    commits_stats = collect_commit_stats(username)
+    visitor_stats = get_visitor_stats(f"https://github.com/{username}")
     
     # Save the total commits to a JSON file
     with open("stats.json", "w") as f:
-        json.dump({"total_commits": total_commits}, f, indent=2)
-    print(f"Total commits: {total_commits}")
+        json.dump({"total_commits": total_commits, "visitor_stats"}, f, indent=2)
+    print(f"Total commits: {commits_stats}")
+    print(f"Visitor stats: {visitor_stats}")
 
-if __name__ == "__main__":
-    collect_commit_stats()
