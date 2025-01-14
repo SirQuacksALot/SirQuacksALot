@@ -78,7 +78,7 @@ if __name__ == "__main__":
     
     # Save the total commits to a JSON file
     with open("stats.json", "w") as f:
-        json.dump({"total_commits": total_commits, "visitor_stats"}, f, indent=2)
+        json.dump({"total_commits": total_commits, "visitor_stats": visitor_stats}, f, indent=2)
     print(f"Total commits: {commits_stats}")
     print(f"Visitor stats: {visitor_stats}")
 
