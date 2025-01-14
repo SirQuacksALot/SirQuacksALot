@@ -38,7 +38,7 @@ I'm a student at a University of Applied Sciences and studying applied computer 
   
 ##
 
-<!-- ![Metrics](/github-metrics.svg) -->
+<!-- ![Metrics](img/github-metrics.svg) -->
 
 <div id="footer" align="center">
   <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=prussian&animation=default&layout=default&font=default&quoteType=random&bgColor=black"> -->
