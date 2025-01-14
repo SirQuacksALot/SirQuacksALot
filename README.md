@@ -8,7 +8,7 @@ I'm a student at a University of Applied Sciences and studying applied computer 
   <tr width="100">
     <td>a</td>
     <td width="100"><img width="100%" height="0"></td>
-    <td text-align=right>b</td>
+    <td text-align=right>                b</td>
   </tr>
 </table>
 
