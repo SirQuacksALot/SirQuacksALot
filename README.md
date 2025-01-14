@@ -15,7 +15,7 @@ a student at a University of Applied Sciences and studying applied computer sien
 
 ##
 
-### TechStack - Things I have knowledge on and Tools I use 💻
+> ### TechStack 💻 Things I have knowledge on and Tools I use 
 
 <span>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
