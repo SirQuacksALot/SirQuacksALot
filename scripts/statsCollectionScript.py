@@ -18,6 +18,11 @@ def get_visitor_stats(path):
     # ParseHTML 
     soup = BeautifulSoup(response.text, 'html.parser')
     
+    # Search for <dl>-Tag
+    dl = soup.find("dl")
+    if not dl:
+        raise Exception("Could not find the <dl> element on the page.")
+        
     # Read Statistics
     stats = {}
     for div in dl.find_all("div"):
