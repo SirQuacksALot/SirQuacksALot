@@ -1,8 +1,6 @@
 > ### ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻
 
-```
 a student at a University of Applied Sciences and studying applied computer sience 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
-```
 
 <span>
   <img src="https://badges.chanserver.de/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSirQuacksALot%2FSirQuacksALot%2Frefs%2Fheads%2Fmaster%2Fstats.json&query=%24.visitor_stats%5B%22total_hits%22%5D&style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNOCAyYzEuOTgxIDAgMy42NzEuOTkyIDQuOTMzIDIuMDc4IDEuMjcgMS4wOTEgMi4xODcgMi4zNDUgMi42MzcgMy4wMjNhMS42MiAxLjYyIDAgMCAxIDAgMS43OThjLS40NS42NzgtMS4zNjcgMS45MzItMi42MzcgMy4wMjNDMTEuNjcgMTMuMDA4IDkuOTgxIDE0IDggMTRjLTEuOTgxIDAtMy42NzEtLjk5Mi00LjkzMy0yLjA3OEMxLjc5NyAxMC44My44OCA5LjU3Ni40MyA4Ljg5OGExLjYyIDEuNjIgMCAwIDEgMC0xLjc5OGMuNDUtLjY3NyAxLjM2Ny0xLjkzMSAyLjYzNy0zLjAyMkM0LjMzIDIuOTkyIDYuMDE5IDIgOCAyWk0xLjY3OSA3LjkzMmEuMTIuMTIgMCAwIDAgMCAuMTM2Yy40MTEuNjIyIDEuMjQxIDEuNzUgMi4zNjYgMi43MTdDNS4xNzYgMTEuNzU4IDYuNTI3IDEyLjUgOCAxMi41YzEuNDczIDAgMi44MjUtLjc0MiAzLjk1NS0xLjcxNSAxLjEyNC0uOTY3IDEuOTU0LTIuMDk2IDIuMzY2LTIuNzE3YS4xMi4xMiAwIDAgMCAwLS4xMzZjLS40MTItLjYyMS0xLjI0Mi0xLjc1LTIuMzY2LTIuNzE3QzEwLjgyNCA0LjI0MiA5LjQ3MyAzLjUgOCAzLjVjLTEuNDczIDAtMi44MjUuNzQyLTMuOTU1IDEuNzE1LTEuMTI0Ljk2Ny0xLjk1NCAyLjA5Ni0yLjM2NiAyLjcxN1pNOCAxMGEyIDIgMCAxIDEtLjAwMS0zLjk5OUEyIDIgMCAwIDEgOCAxMFoiPjwvcGF0aD48L3N2Zz4=&label=%20&labelColor=ad60ba&color=BA68C8" title="Profil View Counter (updated every 6h)"/>
