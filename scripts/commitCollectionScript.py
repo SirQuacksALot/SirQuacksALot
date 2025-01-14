@@ -3,13 +3,12 @@ import json
 import requests
 
 def collect_commit_stats():
-    # Debug output
-    print(f"{os.getenv('GITHUB_TOKEN')}")
     # Load repositories from GitHub API
     headers = {"Authorization": f"Bearer {os.getenv('GITHUB_TOKEN')}"}
     response = requests.get("https://api.github.com/users/SirQuacksALot/repos?per_page=100", headers=headers)
     if response.status_code != 200:
-        raise Exception(f"Failed to fetch repositories: {response.status_code}, {response.text}")
+        print(f"Failed to fetch repositories: {response.status_code}, {response.text}")
+        return
     repos = response.json()
 
     # Calculate total commits
