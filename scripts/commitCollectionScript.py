@@ -4,7 +4,7 @@ import requests
 
 def collect_commit_stats():
     # Debug output
-    print(f"{os.getenv('GITHUB_TOKEN')})
+    print(f"{os.getenv('GITHUB_TOKEN')}")
     # Load repositories from GitHub API
     headers = {"Authorization": f"Bearer {os.getenv('GITHUB_TOKEN')}"}
     response = requests.get("https://api.github.com/users/SirQuacksALot/repos?per_page=100", headers=headers)
