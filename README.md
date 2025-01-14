@@ -46,4 +46,4 @@ I'm a student at a University of Applied Sciences and studying applied computer 
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/metrics.plugin.achievements.compact.svg">
 </div>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSirQuacksALot&countColor=%23263759">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSirQuacksALot&countColor=%23263759" hight="0px">
