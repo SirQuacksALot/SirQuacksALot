@@ -24,8 +24,10 @@ jobs:
         python3 -m pip install requests
 
     - name: Run Commit Script
+      env:
+        GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
       run: |
-        GITHUB_TOKEN=${{ secrets.METRICS_TOKEN }} python3 scripts/commitCollectionScript.py
+        python3 scripts/commitCollectionScript.py
 
     - name: Push Results to Repository
       run: |
