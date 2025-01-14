@@ -38,4 +38,4 @@ jobs:
         git add stats.json
         git commit -m "Update total commits in stats.json"
         git push
-        name: commit-stats
+      
