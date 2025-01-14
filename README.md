@@ -1,3 +1,4 @@
+<!-- Personal Overview -->
 > ### ʜɪ, ɪ'ᴍ ѕᴇʙᴀѕᴛɪᴀɴ 👋🏻
 
 a student at a University of Applied Sciences and studying applied computer sience 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
@@ -13,6 +14,8 @@ a student at a University of Applied Sciences and studying applied computer sien
   
 </span>
 
+
+<!--Knowledge and Work Details -->
 ##
 
 > ### TechStack 💻 Knowledge and Tools 🧠
@@ -46,10 +49,8 @@ a student at a University of Applied Sciences and studying applied computer sien
   
 ##
 
-
+<!-- Indepth detail information on github user -->
 <div id="footer" align="center">
-  > ### Details 🔎
-  
   <!-- ![Metrics](https://github.com/SirQuacksALot/SirQuacksALot/blob/master/img/metrics.github-metrics.compact.svg) -->
   <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=prussian&animation=default&layout=default&font=default&quoteType=random&bgColor=black"> -->
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/img/metrics.plugin.languages.indepth.svg"><br><br>
@@ -57,4 +58,6 @@ a student at a University of Applied Sciences and studying applied computer sien
   <img src="https://github.com/SirQuacksALot/SirQuacksALot/blob/master/img/metrics.plugin.achievements.compact.svg">
 </div>
 
+<!-- View Tracker - Invisible because display is above (api.visitorbadge.io cant use icons -->
+<!-- git action with site crawler script to get info -> see scripts/statsCollectionScript.py) -->
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSirQuacksALot&countColor=%23263759" width="0px" hight="0px">
