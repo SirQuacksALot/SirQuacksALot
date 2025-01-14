@@ -15,17 +15,27 @@ def get_visitor_stats(path):
     if response.status_code != 200:
         raise Exception(f"Failed to fetch visitor stats: {response.status_code}")
     
-    # HTML parsen
+    # ParseHTML 
     soup = BeautifulSoup(response.text, 'html.parser')
     
-    # Extrahiert die Statistiken aus den entsprechenden HTML-Elementen
-    stats = soup.find_all("h2")
-    if len(stats) >= 2:
-        total_visitors = stats[0].text.strip()
-        unique_visitors = stats[1].text.strip()
-        return {"total_visitors": int(total_visitors), "unique_visitors": int(unique_visitors)}
+    # Read Statistics
+    stats = {}
+    for div in dl.find_all("div"):
+        dt = div.find("dt")
+        dd = div.find("dd")
+        if dt and dd:
+            key = dt.text.strip().lower().replace(" ", "_")  # Normalisiere den Namen
+            value = int(dd.text.strip().replace(",", ""))  # Entferne Kommata und konvertiere in int
+            stats[key] = value
+    
+    # Check values
+    if "total_visitors" in stats and "unique_visitors" in stats:
+        return {
+            "total_visitors": stats["total_visitors"],
+            "unique_visitors": stats["unique_visitors"]
+        }
     else:
-        raise Exception("Could not extract visitor statistics.")
+        raise Exception("Could not extract total_visitors and unique_visitors from the stats.")
 
 def collect_commit_stats(username): 
     """
