@@ -40,6 +40,8 @@ jobs:
 
     - name: No changes found
       if: env.CHANGES == 'false'
+      run: |
+        echo "No changes found!"
 
     - name: Push Results to Repository on chnages
       if: env.CHANGES == 'true'
