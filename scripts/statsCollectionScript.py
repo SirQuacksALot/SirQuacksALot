@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
+from selenium import webdriver
 
 def get_visitor_stats(path):
     """
@@ -10,13 +11,12 @@ def get_visitor_stats(path):
     :return: Ein Dictionary mit 'total_visitors' und 'unique_visitors'.
     """
     url = f"https://visitorbadge.io/status?path={path}"
-    headers = { "User-Agent": "Mozilla/5.0 (compatible; GitHubActions/1.0)" }
-    response = requests.get(url, headers=headers)
-    if response.status_code != 200:
-        raise Exception(f"Failed to fetch visitor stats: {response.status_code}")
-    
-    # ParseHTML 
-    soup = BeautifulSoup(response.text, 'html.parser')
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless")
+    driver = webdriver.Chrome(options=options)
+    driver.get(url)
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    driver.quit()
     
     # Search for <dl>-Tag
     dl = soup.find("dl")
