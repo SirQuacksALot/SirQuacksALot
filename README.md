@@ -4,7 +4,7 @@
 
 I'm a student at a University of Applied Sciences and studying applied computer sience 👨‍🎓 I'm currently working as a backend API developer for the University. My fields of interessts are Cybersecurity, Maleware development and Penetrationtesting. All in all I like to experiment and have fun 😺
 
-<table>
+<table cellpadding="0" cellspacing="0" border="0" width="100">
   <tr>
     <td>a</td>
     <td><img width="100%" height="0"></td>
