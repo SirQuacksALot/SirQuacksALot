@@ -34,11 +34,10 @@ def get_visitor_stats(path):
             stats[key] = value
     
     # Check values
-    if "total_hits" in stats and "today" in stats and "hits_the_last_2_days" in stats:
+    if "total_hits" in stats and "today" in stats:
         return {
             "total_hits": stats["total_hits"],
-            "today": stats["today"],
-            "hits_the_last_2_days": stats["hits_the_last_2_days"]
+            "today": stats["today"]
         }
     else:
         raise Exception("Could not extract total_visitors and unique_visitors from the stats.")
