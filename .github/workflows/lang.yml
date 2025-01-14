@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.indepth.svg
+          filename: img/metrics.plugin.languages.indepth.svg
           token: ${{ secrets.PAT }}
           base: ""
           plugin_languages: yes
