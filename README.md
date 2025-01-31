@@ -25,30 +25,30 @@ a student at a University of Applied Sciences and studying applied computer sien
 > ### ᴛᴇᴄʜᴛѕᴛᴀᴄᴋ - ᴋɴᴏᴡʟᴇᴅɢᴇ ᴀɴᴅ ᴛᴏᴏʟѕ 💻
 
 <span>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0iI2ZmZiI+DQogICAgPHBhdGggZD0iTTI3LjMyNCw0LjgwNGwtNC43NS0xLjYyNWMtMC4zMTUtMC4xMDgtMC42NjctMC4wNTEtMC45MzIsMC4xNTJsLTEwLjcwOCw4LjIxTDUuNTE3LDguMjcgYy0wLjI3OC0wLjE2OS0wLjYyLTAuMTkyLTAuOTE4LTAuMDYxbC0yLDAuODc1QzIuMjM1LDkuMjQzLDIsOS42MDMsMiwxMHYxMGMwLDAuMzk3LDAuMjM1LDAuNzU3LDAuNTk5LDAuOTE2bDIsMC44NzUgYzAuMjk3LDAuMTMxLDAuNjM5LDAuMTA3LDAuOTE4LTAuMDYxbDUuNDE2LTMuMjcxbDEwLjcwOCw4LjIxYzAuMTc3LDAuMTM2LDAuMzkyLDAuMjA2LDAuNjA4LDAuMjA2IGMwLjEwOSwwLDAuMjE4LTAuMDE4LDAuMzI0LTAuMDU0bDQuNzUtMS42MjVDMjcuNzI4LDI1LjA1OCwyOCwyNC42NzgsMjgsMjQuMjVWNS43NUMyOCw1LjMyMiwyNy43MjgsNC45NDIsMjcuMzI0LDQuODA0eiBNNiwxNi43NjYgdi0zLjUzMkw4LjkyMywxNUw2LDE2Ljc2NnogTTIyLDE5LjcxN0wxNS4wMzgsMTVMMjIsMTAuMjgzVjE5LjcxN3oiPjwvcGF0aD4NCjwvc3ZnPg==">
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
-  <img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0iI2ZmZiI+DQogICAgPHBhdGggZD0iTTI3LjMyNCw0LjgwNGwtNC43NS0xLjYyNWMtMC4zMTUtMC4xMDgtMC42NjctMC4wNTEtMC45MzIsMC4xNTJsLTEwLjcwOCw4LjIxTDUuNTE3LDguMjcgYy0wLjI3OC0wLjE2OS0wLjYyLTAuMTkyLTAuOTE4LTAuMDYxbC0yLDAuODc1QzIuMjM1LDkuMjQzLDIsOS42MDMsMiwxMHYxMGMwLDAuMzk3LDAuMjM1LDAuNzU3LDAuNTk5LDAuOTE2bDIsMC44NzUgYzAuMjk3LDAuMTMxLDAuNjM5LDAuMTA3LDAuOTE4LTAuMDYxbDUuNDE2LTMuMjcxbDEwLjcwOCw4LjIxYzAuMTc3LDAuMTM2LDAuMzkyLDAuMjA2LDAuNjA4LDAuMjA2IGMwLjEwOSwwLDAuMjE4LTAuMDE4LDAuMzI0LTAuMDU0bDQuNzUtMS42MjVDMjcuNzI4LDI1LjA1OCwyOCwyNC42NzgsMjgsMjQuMjVWNS43NUMyOCw1LjMyMiwyNy43MjgsNC45NDIsMjcuMzI0LDQuODA0eiBNNiwxNi43NjYgdi0zLjUzMkw4LjkyMywxNUw2LDE2Ljc2NnogTTIyLDE5LjcxN0wxNS4wMzgsMTVMMjIsMTAuMjgzVjE5LjcxN3oiPjwvcGF0aD4NCjwvc3ZnPg==">
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white">
+  <img src="https://img.shields.io/badge/NIX-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
   
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white">
   
-  <img src="https://img.shields.io/badge/Proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33">
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Proxmox-proxmox?style=flat-square&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33">
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/GitBook-%23000000.svg?style=flat-square&logo=gitbook&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
 </span>
   
 ##
