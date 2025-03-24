@@ -58,7 +58,7 @@ a student at a University of Applied Sciences and studying applied computer sien
 <!-- Indepth detail information on github user -->
 <div id="footer" align="center">
 
-  ## Stats & Adchivements 🏆​
+  ## sᴛᴀᴛs - ᴀᴅᴄʜɪᴠᴇᴍᴇɴᴛs 🏆​
   
   <!-- ![Metrics](https://github.com/SirQuacksALot/SirQuacksALot/blob/master/img/metrics.github-metrics.compact.svg) -->
   <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=prussian&animation=default&layout=default&font=default&quoteType=random&bgColor=black"> -->
