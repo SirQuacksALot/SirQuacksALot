@@ -42,6 +42,8 @@ a student at a University of Applied Sciences and studying applied computer sien
   <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white">
   <img src="https://img.shields.io/badge/lumen-red?style=flat-square&logo=lumen&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-171f36?style=flat-square&logo=laravel&logoColor=red">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Proxmox-proxmox?style=flat-square&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33">
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
