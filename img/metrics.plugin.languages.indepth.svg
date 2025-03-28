@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.66595537749134" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="347.66595537749134" y="0" width="88.93640494128235" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="436.60236031877366" y="0" width="23.39763968122632" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.8352876378763" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="347.8352876378763" y="0" width="88.80234226660676" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="436.63762990448305" y="0" width="23.362370095516937" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,7 +35,7 @@
                                 Nix
                             </div>
                             <small>
-                                <div>52 kB</div>
+                                <div>52.1 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
