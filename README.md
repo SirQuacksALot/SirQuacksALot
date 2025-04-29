@@ -12,7 +12,7 @@
 
 # Hi, I'm Sebastian 👋🏻
 
-On my way through the Fog of life 
+On my way through the Fog of life
 
 </div>
 
