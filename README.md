@@ -1,6 +1,6 @@
 <div align=center>
 
-[![BANNER](./img/tea_banner.png)](https://github.com/SirQuacksALot)
+[![BANNER](./img/tea-banner-rounded.png)](https://github.com/SirQuacksALot)
 
 <br>
 
