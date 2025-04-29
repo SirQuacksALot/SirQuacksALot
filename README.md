@@ -42,4 +42,4 @@ My fields of interests are `Cybersecurity`, `Malware development`, and `Penetrat
 
 <br>
 
-[![BUY_ME_A_TEA](https://img.shields.io/badge/Buy_me_a_tea-white?style=for-the-badge&logo=mocha&logoColor=white&labelColor=%23d13838&color=%23db4242)](https://buymeacoffee.com/sirquacksalot)
+[![BUY_ME_A_TEA](https://img.shields.io/badge/Buy_me_a_tea-white?style=flat-square&logo=mocha&logoColor=white&labelColor=%23d13838&color=%23db4242)](https://buymeacoffee.com/sirquacksalot)
