@@ -1,4 +1,4 @@
-name: Indepth analysis
+name: Languages
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
