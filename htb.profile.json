@@ -1,1 +1,7 @@
-{"profile":{"id":1613228,"sso_id":true,"name":"SirQuacksALot","system_owns":5,"user_owns":5,"user_bloods":0,"system_bloods":0,"challenge_bloods":0,"team":null,"respects":0,"rank":"Script Kiddie","rank_id":2,"current_rank_progress":0,"next_rank":"Hacker","next_rank_points":0,"rank_ownership":0,"rank_requirement":5,"ranking":1006,"avatar":"https:\/\/htb-sso-prod-public-storage.s3.eu-central-1.amazonaws.com\/users\/de0abd34-52e7-4dc4-889a-6e82b6367d1c-avatar.png","timezone":"Europe\/Berlin","isVip":false,"isDedicatedVip":false,"public":true,"country_name":"Germany","country_code":"DE","points":0,"joined_date":"2023-08-15T01:42:48.000000Z","account_id":"9bc02b38-446f-4299-a23c-8be50f012722","university":null,"university_name":null,"github":null,"linkedin":null,"twitter":null,"server":"EU Machines 1","full_name":"S G","phone_number":null,"cv":null,"cpe_id":null,"user_respects":0,"user_follows":0,"followed_by_count":0}}
+{
+  "profile": {
+    "name": "SirQuacksALot",
+    "rank": "Script Kiddie",
+    "points": 0
+  }
+}
