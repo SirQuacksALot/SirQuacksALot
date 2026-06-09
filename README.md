@@ -19,7 +19,7 @@ On my way through the Fog of life
 <br>
 
 <!-- Personal Overview -->
-👨‍🎓 I study applied computer sience @HSMW and work as PHP api backend developer. Also I help with flutter fronted of the HSMWmobil app 🧑‍💻
+👨‍🎓 I study applied computer sience @HSMW and I do part time work as a developer for the HSMWmobil project, mostly working on the backend and if needed on the App frontend 🧑‍💻.
 
 My fields of interests are `Cybersecurity`, `Malware development`, and `Penetrationtesting`. All in all I like to experiment and have fun 😺
 
