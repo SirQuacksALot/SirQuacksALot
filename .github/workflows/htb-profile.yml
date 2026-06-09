@@ -15,7 +15,7 @@ jobs:
           HTTP_STATUS=$(curl -s -o htb.profile.json -w "%{http_code}" \
             -H "Authorization: Bearer ${{ secrets.HTB_API_TOKEN }}" \
             -H "Accept: application/json" \
-            https://labs.hackthebox.com/api/v4/user/profile/1613228)
+            https://labs.hackthebox.com/api/v4/user/profile/basic/1613228)
           echo "HTTP status: $HTTP_STATUS"
           cat htb.profile.json
           [ "$HTTP_STATUS" -ge 200 ] && [ "$HTTP_STATUS" -lt 300 ] || exit 1
