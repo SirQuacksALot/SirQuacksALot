@@ -12,11 +12,13 @@ jobs:
 
       - name: Fetch HTB profile
         run: |
-          curl -sf \
+          HTTP_STATUS=$(curl -s -o htb.profile.json -w "%{http_code}" \
             -H "Authorization: Bearer ${{ secrets.HTB_API_TOKEN }}" \
             -H "Accept: application/json" \
-            https://labs.hackthebox.com/api/v4/user/profile/1613228 \
-            -o htb.profile.json
+            https://labs.hackthebox.com/api/v4/user/profile/1613228)
+          echo "HTTP status: $HTTP_STATUS"
+          cat htb.profile.json
+          [ "$HTTP_STATUS" -ge 200 ] && [ "$HTTP_STATUS" -lt 300 ] || exit 1
 
       - name: Commit and push
         run: |
