@@ -1,16 +1,24 @@
 <div align=center>
 
-[![BANNER](./img/tea-banner-rounded.png)](https://github.com/SirQuacksALot)
+<!-- [![BANNER](./img/tea-banner-rounded.png)](https://github.com/SirQuacksALot) -->
+
+![ʜɪ, ɪ'ᴍ Sebastian 👋🏻](https://shieldcn.dev/header/surface.svg?title=%CA%9C%C9%AA%2C+%C9%AA%27%E1%B4%8D+Sebastian+%F0%9F%91%8B%F0%9F%8F%BB&subtitle=On+my+way+through+the+Fog+of+life&mode=dark&border=false&image=https%3A%2F%2Fraw.githubusercontent.com%2FSirQuacksALot%2FSirQuacksALot%2Frefs%2Fheads%2Fmaster%2Fimg%2Ftea-banner-rounded.png)
+
 
 <br>
 
-![TEA_ADDICT](https://img.shields.io/badge/Tea_addict-white?style=flat-square&logo=mocha&logoColor=white&labelColor=%23d13838&color=%23db4242) ![CODING_ENTHUSIAST](https://img.shields.io/badge/coding_enthusiast-white?style=flat-square&logo=devbox&logoColor=white&labelColor=%23d13838&color=%23db4242) [![wakatime](https://wakatime.com/badge/user/1146ceb6-4951-4fba-81b2-b4694dd0b496.svg?style=flat-square&color=%23db4242&labelColor=%23d13838)](https://wakatime.com/@1146ceb6-4951-4fba-81b2-b4694dd0b496) ![LOVES_C_PLUS_PLUS](https://img.shields.io/badge/C%2B%2B-white?style=flat-square&logo=southwestairlines&logoColor=white&labelColor=%23d13838&color=%23db4242) ![LOVE_TO_EXPERIMENT](https://img.shields.io/badge/loves%20to%20experiment-white?style=flat-square&logo=i18next&logoColor=white&labelColor=%23d13838&color=%23db4242)
+![TEA_ADDICT](https://img.shields.io/badge/Tea_addict-white?style=flat-square&logo=mocha&logoColor=white&labelColor=%23d13838&color=%23db4242) ![CODING_ENTHUSIAST](https://img.shields.io/badge/coding_enthusiast-white?style=flat-square&logo=devbox&logoColor=white&labelColor=%23d13838&color=%23db4242) [![wakatime](https://wakatime.com/badge/user/1146ceb6-4951-4fba-81b2-b4694dd0b496.svg?style=flat-square&color=%23db4242&labelColor=%23d13838)](https://wakatime.com/@1146ceb6-4951-4fba-81b2-b4694dd0b496) ![LOVES_C_PLUS_PLUS](https://img.shields.io/badge/C%2B%2B-white?style=flat-square&logo=southwestairlines&logoColor=white&labelColor=%23d13838&color=%23db4242) ![LOVE_TO_EXPERIMENT](https://img.shields.io/badge/loves%20to%20experiment-white?style=flat-square&logo=i18next&logoColor=white&labelColor=%23d13838&color=%23db4242) 
 
+![Profile Views](https://shieldcn.dev/views/user/shieldcn.svg?variant=ghost&size=xs)
+
+
+<!--
 <br>
 
 # ʜɪ, ɪ'ᴍ Sebastian 👋🏻
 
 *On my way through the Fog of life*
+-->
 
 <br>
 
