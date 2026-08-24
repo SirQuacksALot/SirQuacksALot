@@ -9,7 +9,7 @@
 
 ![TEA_ADDICT](https://img.shields.io/badge/Tea_addict-white?style=flat-square&logo=mocha&logoColor=white&labelColor=%23d13838&color=%23db4242) ![CODING_ENTHUSIAST](https://img.shields.io/badge/coding_enthusiast-white?style=flat-square&logo=devbox&logoColor=white&labelColor=%23d13838&color=%23db4242) [![wakatime](https://wakatime.com/badge/user/1146ceb6-4951-4fba-81b2-b4694dd0b496.svg?style=flat-square&color=%23db4242&labelColor=%23d13838)](https://wakatime.com/@1146ceb6-4951-4fba-81b2-b4694dd0b496) ![LOVES_C_PLUS_PLUS](https://img.shields.io/badge/C%2B%2B-white?style=flat-square&logo=southwestairlines&logoColor=white&labelColor=%23d13838&color=%23db4242) ![LOVE_TO_EXPERIMENT](https://img.shields.io/badge/loves%20to%20experiment-white?style=flat-square&logo=i18next&logoColor=white&labelColor=%23d13838&color=%23db4242) 
 
-![Profile Views](https://shieldcn.dev/views/user/shieldcn.svg?variant=ghost&size=xs)
+<!--![Profile Views](https://shieldcn.dev/views/user/shieldcn.svg?variant=ghost&size=xs)-->
 
 
 <!--
