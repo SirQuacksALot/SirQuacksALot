@@ -20,6 +20,9 @@ BADGES = [
 BLUE = "58a6ff"
 TRANSPARENT = "24292f00"
 
+# Transparent padding around the entire badge group
+PADDING = 10
+
 SVG_NS = "http://www.w3.org/2000/svg"
 ET.register_namespace("", SVG_NS)
 
@@ -127,18 +130,35 @@ def generate():
         shield[1] for shield in shields
     )
 
-    total_height = (
+    content_height = (
         sum(shield[2] for shield in shields)
         + gap * (len(shields) - 1)
         + section_gap - gap
     )
 
+    # Add transparent padding around the content
+    total_width = max_width + PADDING * 2
+    total_height = content_height + PADDING * 2
+
     canvas = ET.Element(
         f"{{{SVG_NS}}}svg",
         {
-            "width": str(int(max_width + 0.5)),
+            "width": str(int(total_width + 0.5)),
             "height": str(int(total_height + 0.5)),
-            "viewBox": f"0 0 {max_width} {total_height}",
+            "viewBox": (
+                f"0 0 {total_width} {total_height}"
+            ),
+        },
+    )
+
+    # Move the entire badge group inward
+    container = ET.SubElement(
+        canvas,
+        f"{{{SVG_NS}}}g",
+        {
+            "transform": (
+                f"translate({PADDING}, {PADDING})"
+            )
         },
     )
 
@@ -155,7 +175,7 @@ def generate():
         shield.set("width", str(width))
         shield.set("height", str(height))
 
-        canvas.append(shield)
+        container.append(shield)
 
         y += height + gap
 
@@ -165,6 +185,7 @@ def generate():
     output = "img/badge-box.svg"
 
     tree = ET.ElementTree(canvas)
+
     tree.write(
         output,
         encoding="utf-8",
