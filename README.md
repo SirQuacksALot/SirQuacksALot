@@ -9,13 +9,8 @@ I study applied computer science at HSMW and work part-time as a developer on th
 
 <br clear="left">
 
-<div align="center">
-<img src="https://ghstats.dev/api/card?username=SirQuacksALot&show_ring=false&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card"><br>
-<img src="https://ghstats.dev/api/langs?username=SirQuacksALot&hide_border=true&hide_title=true" alt="Top Languages">
-</div>
-
-<br clear="left">
-
+<img src="https://ghstats.dev/api/card?username=SirQuacksALot&show_ring=false&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" align="left" width="450"><br>
+<img src="https://ghstats.dev/api/langs?username=SirQuacksALot&hide_border=true&hide_title=true" alt="Top Languages" align="left" width="450">
 **My interests and hobbies**
 
 *cybersecurity* • *malware development* • *hack the box* • *minecraft* • *programming*
