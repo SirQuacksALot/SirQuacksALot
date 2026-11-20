@@ -7,15 +7,14 @@
 
 I study applied computer science at HSMW and work part-time as a developer on the **HSMWmobil** project, focusing mainly on the backend and, when needed, on the app frontend.
 
-<br clear="left"/>
+<br clear="left">
 
-
-
+<div align="center">
 <img src="https://ghstats.dev/api/card?username=SirQuacksALot&show_ring=false&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card"><br>
 <img src="https://ghstats.dev/api/langs?username=SirQuacksALot&hide_border=true&hide_title=true" alt="Top Languages">
+</div>
 
-
-<br clear="left"><br>
+<br clear="left">
 
 **My interests and hobbies**
 
