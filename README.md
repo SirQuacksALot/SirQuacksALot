@@ -1,4 +1,6 @@
+<span>
 <img src="./img/badge-box.svg" align="left" width="200" alt="Badge Box">
+
 
 <h3>Hi. I'm Sebastian <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" valign="middle"/></h3>
 
