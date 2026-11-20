@@ -138,7 +138,7 @@ def generate():
 
     # Add transparent padding around the content
     total_width = max_width + PADDING * 2
-    total_height = content_height + (PADDING +20) * 2
+    total_height = content_height + (PADDING) * 2
 
     canvas = ET.Element(
         f"{{{SVG_NS}}}svg",
