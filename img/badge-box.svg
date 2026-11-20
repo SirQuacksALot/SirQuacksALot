@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="224" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <rect width="224" height="224" fill="transparent"/>
+
+  
+  <rect x="0" y="0" width="200" height="28" rx="6"
+        fill="#0d1117" stroke="#30363d"/>
+  <text x="12" y="19" fill="#58a6ff" font-size="13">Tea_addict</text>
+  
+  <rect x="0" y="36" width="200" height="28" rx="6"
+        fill="#0d1117" stroke="#30363d"/>
+  <text x="12" y="55" fill="#58a6ff" font-size="13">coding_enthusiast</text>
+  
+  <rect x="0" y="72" width="200" height="28" rx="6"
+        fill="#0d1117" stroke="#30363d"/>
+  <text x="12" y="91" fill="#58a6ff" font-size="13">C++ & Rust</text>
+  
+  <rect x="0" y="108" width="200" height="28" rx="6"
+        fill="#0d1117" stroke="#30363d"/>
+  <text x="12" y="127" fill="#58a6ff" font-size="13">loves_to_experiment</text>
+  
+
+  
+  <text x="0" y="152" fill="#8b949e" font-size="12">WakaTime (last 7 days)</text>
+  
+  <text x="0" y="170" fill="#58a6ff" font-size="13">10.2h coding</text>
+  
+  <text x="0" y="188" fill="#8b949e" font-size="12">Top language: Vue</text>
+</svg>
