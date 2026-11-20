@@ -21,7 +21,7 @@ BLUE = "58a6ff"
 TRANSPARENT = "24292f00"
 
 # Transparent padding around the entire badge group
-PADDING = 10
+PADDING = 20
 
 SVG_NS = "http://www.w3.org/2000/svg"
 ET.register_namespace("", SVG_NS)
