@@ -11,9 +11,9 @@ import xml.etree.ElementTree as ET
 WAKATIME_TOKEN = os.environ["WAKATIME_API_KEY"]
 
 BADGES = [
-    ("Tea_addict", "mocha"),
-    ("coding_enthusiast", "devbox"),
-    ("loves_to_experiment", "i18next"),
+    ("Tea addict", "mocha"),
+    ("coding enthusiast", "devbox"),
+    ("loves to experiment", "i18next"),
     ("C++ & Rust", "southwestairlines"),
 ]
 
