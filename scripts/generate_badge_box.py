@@ -21,7 +21,7 @@ BLUE = "58a6ff"
 TRANSPARENT = "24292f00"
 
 # Transparent padding around the entire badge group
-PADDING = 20
+PADDING = 30
 
 SVG_NS = "http://www.w3.org/2000/svg"
 ET.register_namespace("", SVG_NS)
@@ -138,7 +138,7 @@ def generate():
 
     # Add transparent padding around the content
     total_width = max_width + PADDING * 2
-    total_height = content_height + PADDING * 2
+    total_height = content_height + (PADDING +20) * 2
 
     canvas = ET.Element(
         f"{{{SVG_NS}}}svg",
