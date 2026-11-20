@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="{{ total_height }}" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <rect width="224" height="{{ total_height }}" fill="transparent"/>
+
+  {% for badge in badges %}
+  <rect x="0" y="{{ loop.index0 * 36 }}" width="200" height="28" rx="6"
+        fill="#0d1117" stroke="#30363d"/>
+  <text x="12" y="{{ loop.index0 * 36 + 19 }}" fill="#58a6ff" font-size="13">{{ badge }}</text>
+  {% endfor %}
+
+  {% set y = badges|length * 36 + 8 %}
+  <text x="0" y="{{ y }}" fill="#8b949e" font-size="12">WakaTime (last 7 days)</text>
+  {% set y = y + 18 %}
+  <text x="0" y="{{ y }}" fill="#58a6ff" font-size="13">{{ wakatime_hours }}h coding</text>
+  {% set y = y + 18 %}
+  <text x="0" y="{{ y }}" fill="#8b949e" font-size="12">Top language: {{ wakatime_top_lang }}</text>
+</svg>
