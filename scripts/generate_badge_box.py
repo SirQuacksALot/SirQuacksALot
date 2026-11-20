@@ -132,8 +132,8 @@ def generate():
 
     content_height = (
         sum(shield[2] for shield in shields)
-        + gap * (len(shields) - 1)
-        + section_gap - gap
+        + gap * (len(shields) - 2)
+        + section_gap
     )
 
     # Add transparent padding around the content
@@ -177,7 +177,10 @@ def generate():
 
         container.append(shield)
 
-        y += height + gap
+        y += height
+
+        if index < len(shields) - 1:
+            y += gap
 
     # Save SVG
     os.makedirs("img", exist_ok=True)
