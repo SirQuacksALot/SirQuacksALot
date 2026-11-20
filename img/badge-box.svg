@@ -12,7 +12,7 @@
   
   <rect x="0" y="72" width="200" height="28" rx="6"
         fill="#0d1117" stroke="#30363d"/>
-  <text x="12" y="91" fill="#58a6ff" font-size="13">C++ & Rust</text>
+  <text x="12" y="91" fill="#58a6ff" font-size="13">C++ &amp; Rust</text>
   
   <rect x="0" y="108" width="200" height="28" rx="6"
         fill="#0d1117" stroke="#30363d"/>
