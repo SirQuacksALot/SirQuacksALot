@@ -8,7 +8,7 @@ WAKATIME_API_KEY = os.environ["WAKATIME_API_KEY"]
 BADGES = [
     "Tea_addict",
     "coding_enthusiast",
-    "C++ & Rust",
+    "C++ &amp; Rust",
     "loves_to_experiment",
 ]
 
