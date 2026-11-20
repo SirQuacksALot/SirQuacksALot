@@ -14,7 +14,7 @@ BADGES = [
 
 def fetch_wakatime():
     auth = base64.b64encode(WAKATIME_API_KEY.encode()).decode()
-    headers = {"Authorization": f"Basic {auth}"}
+    headers = {"Authorization": f"Bearer {auth}"}
     url = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
     r = requests.get(url, headers=headers, timeout=10)
     r.raise_for_status()
