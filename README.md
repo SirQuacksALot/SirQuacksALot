@@ -14,6 +14,7 @@ I study applied computer science at HSMW and work part-time as a developer on th
 <img src="https://streak-stats.demolab.com/?user=SirQuacksALot&theme=dark&hide_border=true&background=0d1117&currStreakLabel=58a6ff&fire=58a6ff&ring=58a6ff&exclude_days=Sat,Sun&card_width=490" align="left" width="450">
 <img src="https://ghstats.dev/api/card?username=SirQuacksALot&show_ring=false&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" align="left" width="450"><br>
 <img src="https://ghstats.dev/api/langs?username=SirQuacksALot&hide_border=true&hide_title=true" alt="Top Languages" align="left" width="450">
+
 **My interests and hobbies**
 
 > *cybersecurity* • *malware development* • *hack the box* • *minecraft* • *programming*
